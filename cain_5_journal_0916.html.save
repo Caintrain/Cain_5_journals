@@ -1,0 +1,36 @@
+<!DOCTYPE>
+<html>
+<head><title>Zach's Journal</title></head>
+<body>
+<p>ordered list,make a list [uses numbers,or whatever you set it to
+</p>
+<p>unordered list, makes a list out of bullet points
+</p>
+<p>defines a row for a table
+</p>
+<p>cell in a table
+</p>
+<p>for a link, link to other text in the webpage
+</p>
+<p>aside{}-html5 semantic element, predefind css element
+</p>
+<p>(non-semantic)means nothing by itself, used for grouping
+</p>
+<p>the new semantic elements are:details,article,aside,figcaption,figure,foter,header,main,mark,nav(navigation),section,summary,time
+</p>
+<p>
+</p>
+<p>sets the space to other elements
+</p>
+<p>sefine how wide the elements would be
+</p>
+<p>define how high the elements would be
+</p>
+<p>
+</p>
+<p>(the color of the text)
+</p>
+<p>defines the appearance when hovere the others are:visited,link,active
+</p>
+<p>can make to remove all text recoration
+</p>

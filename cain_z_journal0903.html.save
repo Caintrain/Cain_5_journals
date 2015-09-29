@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head> <title> DIVS </title> </head>
+<body>
+<h2> Div Alignments </h2>
+<p>there are several div alignments.
+<ul>they are:
+<li><div align=center>Center-movestext to the middle of the div</li>
+<li><div align=right>right-moves text to the right of the div</li>
+<li><div align=left>left-moves text to the left of the div</li>
+<li><div align=justified>justified-spreads text evenly across the entire row</li>
+</ul>
+<hr>
+<ul>
+<h2>div positioning </h2>
+<li><dis style="position:static;
+width: 200px;
+height: 200px;
+background-color: #BCBCBC;">
+this is a static div</div>
+<li><dis style="position:static;
+width: 200px;
+height: 200px;
+background-color: #BCBCBC;">
+this is a static div</div>
+<li><dis style="position:static;
+width: 200px;
+height: 200px;
+background-color: #BCBCBC;">
+this is a static div</div>
+ </li>
+</ul> 
